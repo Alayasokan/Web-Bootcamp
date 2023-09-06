@@ -1,0 +1,14 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.home {
+    flex: 1 1 100%;
+}
+.search {
+    flex: 1 1 100%;
+}
+.logout {
+    flex: 1 1 100%;
+}

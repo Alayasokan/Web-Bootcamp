@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+    
+}
+
+span {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding: 4px;
+}
+
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 2px solid lightgreen;
+    border-radius: 64px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 7px 20px;
+    height: 3rem;
+}
+
+input {
+    background: white;
+    color: black;
+    border: 2px solid lightgreen;
+    border-radius: 64px;
+    padding: 4px 7px;
+}
